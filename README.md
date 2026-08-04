@@ -1,4 +1,4 @@
-# RegressionModels
+# LinearRegression
 Regression Model: Temperature Prediction from Humidity
 This notebook demonstrates a simple linear regression model to predict 'Temperature (C)' based on 'Humidity' using the Szeged-Weather dataset.
 
